@@ -21,7 +21,7 @@ const About = () => {
             However, I've always had a passion for how things worked in coding.  
             I took advantage of the program by gaining as much knowledge as I could and appliying the things I've learned mixed with hard work to acheive my goals.  
             Although the journey has not always been an easy task, my dedication and persistance pushed me forward to where I am now.  
-            Currently I am working on building responsive applications and exposing myself to backend microservices.?</p>  
+            Currently I am working on building responsive applications and exposing myself to backend microservices.</p>  
             </div>
           </div>
       </div>

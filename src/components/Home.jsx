@@ -10,9 +10,9 @@ const Home = () => {
           <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
             Stanley Enyinnaya
           </h1>
-          <h2 className='text-3xl sm:text-7xl font-bold text-[#8892b0]'>
+          <h3 className='text-3xl sm:text-7xl font-bold text-[#8892b0]'>
             I'm a Full Stack Developer.
-          </h2>
+          </h3>
           <h3 className='text-[#8892b0] py-4 max-w-[700px]'>
             I am passionate about building excellent software that improves the lives of those around me.
             I am currently working with Verizon as a System Engineer and I also work on personal project for individual and small businesses.
